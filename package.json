@@ -1,0 +1,29 @@
+{
+  "name": "main-starter",
+  "version": "1.0.0",
+  "description": "the big picture, project structure for big projects",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reanzi/main-starter.git"
+  },
+  "keywords": [
+    "sass",
+    "gulp",
+    "dev-workflow"
+  ],
+  "author": "Raymond Nziku (reanzi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reanzi/main-starter/issues"
+  },
+  "homepage": "https://github.com/reanzi/main-starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
